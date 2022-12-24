@@ -1,6 +1,7 @@
 {
   "name": "netflix-final-project",
   "version": "0.1.0",
+  "homepage": "https://favourflav2.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
