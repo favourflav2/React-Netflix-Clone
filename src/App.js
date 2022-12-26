@@ -14,11 +14,11 @@ function App() {
       <Navbar />
       
       <Routes>
-        <Route path="/"element={<Home />}></Route>
-        <Route path='/login' element={<Login />}></Route>
-        <Route path="/signup" element={<Signup />}></Route>
+        <Route path="/React-Netflix-Clone/"element={<Home />}></Route>
+        <Route path='/React-Netflix-Clone/login' element={<Login />}></Route>
+        <Route path="/React-Netflix-Clone/signup" element={<Signup />}></Route>
         <Route element={<PrivateRoute />}>
-          <Route path="/account" element={<Account />}></Route>
+          <Route path="/React-Netflix-Clone/account" element={<Account />}></Route>
         </Route>
         
       </Routes>

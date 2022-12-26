@@ -51,7 +51,7 @@ export default function Signup() {
                             <p><input className='mr-2' type="checkbox" />Remember Me?</p>
                             <p>Need Held?</p>
                         </div>
-                        <p className='py-4 '><span className='text-gray-600 mr-2'>Already subscribed to Netflix?</span><Link to='/login'>Log In</Link></p>
+                        <p className='py-4 '><span className='text-gray-600 mr-2'>Already subscribed to Netflix?</span><Link to='/React-Netflix-Clone/login'>Log In</Link></p>
                     </form>
                     
                 </div>

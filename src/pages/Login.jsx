@@ -53,7 +53,7 @@ export default function Login() {
                             <p><input className='mr-2' type="checkbox" />Remember Me?</p>
                             <p>Need Held?</p>
                         </div>
-                        <p className='py-4 text-black'><span className='text-black mr-2'>Need an account?</span><Link to='/signup'>Sign Up</Link></p>
+                        <p className='py-4 text-black'><span className='text-black mr-2'>Need an account?</span><Link to='/React-Netflix-Clone/signup'>Sign Up</Link></p>
                         {error && <p className='bg-red-600 py-3 my-6 rounded font-bold flex justify-center align-center'>{error}</p>}
                     </form>
                     
